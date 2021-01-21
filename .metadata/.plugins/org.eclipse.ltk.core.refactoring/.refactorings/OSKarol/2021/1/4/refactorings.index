@@ -1,0 +1,9 @@
+1611144322147	Rename resource 'create-table-ordem-servico.sql'
+1611144438087	Delete element
+1611144549779	Delete element
+1611144712211	Delete element
+1611144856156	Rename resource 'create-table-ordem-servico.sql'
+1611147232685	Rename type 'GestaoOrdemSericoService'
+1611153991385	Delete element
+1611154912991	Rename resource 'create-table-comentario.sql'
+1611161023917	Extract method 'buscar'

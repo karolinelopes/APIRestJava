@@ -1,0 +1,8 @@
+package com.oskarol.api.controller;
+
+public class ClienteController {
+	
+	public String listar() {
+		return "Teste";
+	}
+}

@@ -1,0 +1,5 @@
+package com.oskarol.domain.exception;
+
+public class NegocioException {
+
+}

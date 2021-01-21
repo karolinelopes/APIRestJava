@@ -1,0 +1,6 @@
+package com.oskarol.api.model;
+
+public class ClienteIdInput {
+
+	private Long id;
+}

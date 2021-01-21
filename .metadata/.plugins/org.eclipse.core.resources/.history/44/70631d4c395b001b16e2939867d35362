@@ -1,0 +1,11 @@
+package com.oskarol.api.model;
+
+import java.time.OffsetDateTime;
+
+public class ComentarioModel {
+
+	private Long id;
+	private String descricao;
+	private OffsetDateTime dataEnvio;
+	
+}

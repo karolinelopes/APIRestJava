@@ -1,0 +1,5 @@
+package com.oskarol.api.exceptionhandler;
+
+public class ApiExceptionHandler {
+
+}

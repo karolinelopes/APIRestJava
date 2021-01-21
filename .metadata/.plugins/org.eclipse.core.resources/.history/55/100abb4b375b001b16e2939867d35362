@@ -1,0 +1,5 @@
+package com.oskarol.domain.repository;
+
+public interface CometarioRepository {
+
+}
